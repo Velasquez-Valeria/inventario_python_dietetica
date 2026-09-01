@@ -1,0 +1,19 @@
+# Bytecode y cachés de Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Base de datos local (se genera al ejecutar el programa)
+inventario.db
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
